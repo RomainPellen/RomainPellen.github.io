@@ -1,0 +1,55 @@
+* { box-sizing: border-box;}
+
+/**** Index page ****/
+
+html, body {
+  height: 100%;
+  background: #FAFAFA;
+}
+
+.container-fluid {
+  height: 60%;
+  margin-top: 2%;
+}
+
+/**** Faq ****/
+
+.rp-header {
+  margin: 2%;
+  color: #ff7575;
+}
+
+.panel,
+.panel :hover,
+.panel :link {
+  /*background: transparent;*/
+  color: #111;
+  text-decoration: none;
+}
+.panel-heading {
+  background: #EEE;
+  color: #111;
+}
+.panel-default {
+  margin: 1%;
+}
+.panel-title {
+  font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-size: 1.2em;
+  margin: 1%;
+}
+
+.panel-body {
+  font-family: "Helvetica Neue",Helvetica,Arial,sans-serif,'Droid Serif', Georgia, Book Antiqua, serif;
+  font-size: 1.1em;
+}
+
+.panel-body,
+.panel-body a,
+.panel-body a:hover {
+  color: #111;
+}
+/*
+#collapse_1 {
+}
+*/
