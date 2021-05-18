@@ -4,7 +4,6 @@
 
 html, body {
   height: 100%;
-  background: #FAFAFA;
 }
 
 .container-fluid {
@@ -29,10 +28,10 @@ html, body {
 .panel-heading {
   background: #EEE;
   color: #111;
-  padding: 1.2%;
+  padding: 20px; /*1.2%;*/
 }
 .panel-default {
-  margin: 1%;
+  margin: 20px; /*1%;*/
 }
 .panel-title {
   font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
